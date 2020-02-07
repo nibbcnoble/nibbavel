@@ -1,0 +1,16 @@
+{
+    "name": "nibb/nibbavel",
+    "description": "A set of tools to extend laravel",
+    "type": "library",
+    "license": "mit",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-0": {
+            "Nibb": "src/"
+        }
+    }
+
+}
